@@ -1,0 +1,5 @@
+O que precia ter e fazer:
+ - Exibir diálogos entre personagens;
+ - Exibir diálogos do player com ele mesmo ou como narrador;
+ - Exibir opções de respostas que interfiram ou não na estória;
+ - Ser de fácil uso.

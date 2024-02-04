@@ -19,6 +19,7 @@
     {"id":{"name":"spr_player_jump","path":"sprites/spr_player_jump/spr_player_jump.yy",},"order":5,},
     {"id":{"name":"obj_text_box_controller","path":"objects/obj_text_box_controller/obj_text_box_controller.yy",},"order":0,},
     {"id":{"name":"rm_initial_menu","path":"rooms/rm_initial_menu/rm_initial_menu.yy",},"order":1,},
+    {"id":{"name":"TextBox","path":"notes/TextBox/TextBox.yy",},"order":0,},
     {"id":{"name":"obj_player_default_atack_collision","path":"objects/obj_player_default_atack_collision/obj_player_default_atack_collision.yy",},"order":0,},
     {"id":{"name":"spr_player_slide","path":"sprites/spr_player_slide/spr_player_slide.yy",},"order":7,},
     {"id":{"name":"obj_ice","path":"objects/obj_ice/obj_ice.yy",},"order":2,},
