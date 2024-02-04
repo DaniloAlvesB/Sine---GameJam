@@ -74,3 +74,5 @@ first_open = true
 	}
 
 #endregion
+
+room_goto(rm_game)

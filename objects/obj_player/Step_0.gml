@@ -1,4 +1,8 @@
-if global.gamePaused exit
+if(global.gamePaused){
+	image_speed = 0
+	exit
+}
+	
 
 //Move and gravity
 var _runing = false
