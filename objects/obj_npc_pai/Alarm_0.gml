@@ -1,0 +1,1 @@
+info.speech.interact = true

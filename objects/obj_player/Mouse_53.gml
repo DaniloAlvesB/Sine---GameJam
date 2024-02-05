@@ -1,4 +1,4 @@
-if global.gamePaused exit
+if global.gamePaused or global.speech exit
 
 //Atack
 if(!base_atk_animation_settings.atack){
